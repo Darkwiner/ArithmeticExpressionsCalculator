@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1584373484 source:c:\users\admin\documents\github\taller1.2\arbolexpre.cpp
+	"arbolExpre.h"
+
+1584373360 c:\users\admin\documents\github\taller1.2\arbolexpre.h
+	"tipoExpresion.h"
+
+1584374564 c:\users\admin\documents\github\taller1.2\tipoexpresion.h
+	"tipoDato.h"
+
+1584374513 c:\users\admin\documents\github\taller1.2\tipodato.h
+	"boolean.h"
+
+1584371610 c:\users\admin\documents\github\taller1.2\boolean.h
+	<stdio.h>
+
+1584373554 source:c:\users\admin\documents\github\taller1.2\archivo.cpp
+	"archivo.h"
+
+1584373507 c:\users\admin\documents\github\taller1.2\archivo.h
+	"string.h"
+
+1584376795 c:\users\admin\documents\github\taller1.2\string.h
+	"boolean.h"
+
+1584373702 source:c:\users\admin\documents\github\taller1.2\boolean.cpp
+	"boolean.h"
+
+1584373791 source:c:\users\admin\documents\github\taller1.2\expresionr.cpp
+	"expresionR.h"
+
+1584373791 c:\users\admin\documents\github\taller1.2\expresionr.h
+	"identificador.h"
+	"arbolExpre.h"
+
+1584374085 c:\users\admin\documents\github\taller1.2\identificador.h
+	"boolean.h"
+
+1584374076 source:c:\users\admin\documents\github\taller1.2\identificador.cpp
+	"identificador.h"
+
+1584376902 source:c:\users\admin\documents\github\taller1.2\listaexpre.cpp
+	"listaExpre.h"
+
+1584376902 c:\users\admin\documents\github\taller1.2\listaexpre.h
+	"expresionR.h"
+
+1584374309 source:c:\users\admin\documents\github\taller1.2\listastring.cpp
+	"listaString.h"
+
+1584374466 c:\users\admin\documents\github\taller1.2\listastring.h
+	"string.h"
+
+1584727990 source:c:\users\admin\documents\github\taller1.2\main.cpp
+	"archivo.h"
+	"listaString.h"
+	"listaExpre.h"
+
+1584371610 source:c:\users\admin\documents\github\taller1.2\pruebaarbolexpre.cpp
+	"arbolExpre.h"
+
+1584375623 source:c:\users\admin\documents\github\taller1.2\pruebaarchivo.cpp
+	"archivo.h"
+
+1584371610 source:c:\users\admin\documents\github\taller1.2\pruebaboolean.cpp
+	"boolean.h"
+
+1584375494 source:c:\users\admin\documents\github\taller1.2\pruebaexpresionr.cpp
+	"expresionR.h"
+	"string.h"
+
+1584371610 source:c:\users\admin\documents\github\taller1.2\pruebaidentificador.cpp
+	"identificador.h"
+	"string.h"
+
+1584371610 source:c:\users\admin\documents\github\taller1.2\pruebalistaexpre.cpp
+	"listaExpre.h"
+
+1584371610 source:c:\users\admin\documents\github\taller1.2\pruebalistastring.cpp
+	"listaString.h"
+
+1584371610 source:c:\users\admin\documents\github\taller1.2\pruebastring.cpp
+	"string.h"
+
+1584371610 source:c:\users\admin\documents\github\taller1.2\pruebatipodato.cpp
+	"tipoDato.h"
+	"string.h"
+
+1584371610 source:c:\users\admin\documents\github\taller1.2\pruebatipoexpresion.cpp
+	"tipoExpresion.h"
+
+1584376797 source:c:\users\admin\documents\github\taller1.2\string.cpp
+	"string.h"
+
+1584374513 source:c:\users\admin\documents\github\taller1.2\tipodato.cpp
+	"tipoDato.h"
+
+1584374564 source:c:\users\admin\documents\github\taller1.2\tipoexpresion.cpp
+	"tipoExpresion.h"
+
