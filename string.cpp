@@ -206,13 +206,15 @@ boolean esNumero (string s)
 boolean esAlfanumerico(string s)
 {
     int i = 0;
+    boolean es = TRUE;
     while (s[i] != '\0' &&  s[i]!=46)
     {
         if (((64 < s[i] && s[i] < 91) || (96 < s[i] && s[i]< 123) || (47 < s[i] && s[i] < 58)))
             i++;
         else
-            return FALSE;
+            es = FALSE;
     }
+    return es;
 }
 
 boolean extensionValida(string s1)
